@@ -1,0 +1,15 @@
+{
+  "name": "universalis-widget",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opendigitaleducation/universalis-widget.git"
+  },
+  "author": "Open Digital Education",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opendigitaleducation/universalis-widget/issues"
+  },
+  "homepage": "https://github.com/opendigitaleducation/universalis-widget#readme"
+}
